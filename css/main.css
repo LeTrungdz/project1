@@ -1,0 +1,318 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	margin: 0;
+	padding: 0;
+}
+#container
+{
+	width: 100%;
+	height: auto;
+	background-color: lightgray;
+	
+}
+.header
+{
+	width: 100%;
+	height: 1000px;
+	background: url("../images/ELadBgVW4AAuhYR.jpg");
+	background-size: cover;
+}
+.banner
+{
+	width: 100%;
+	height: 100px;
+	background-color: lightcoral;
+}
+.logo
+{
+	width: 10%;
+	height: 100px;
+	background: url("../images/Nature-Logo-Graphics-7067129-11.png");
+	float: left;
+	margin: 0px 0px 0px 0px;
+	box-sizing: border-box;
+	background-size: cover;
+	text-align: left;
+}
+.menu
+{
+	width: 80%;
+	height: 100px;	
+	float: right;	
+	padding: 0px 0px 0px 400px;
+	box-sizing: border-box;
+}
+
+.menu ul
+{
+	list-style: none;
+}
+
+.menu ul li 
+{
+	float: left;
+	padding: 50px 50px;
+}
+
+.menu ul li a
+{
+	text-decoration: none;
+	color: black;
+}
+.menu ul li :hover
+{
+	background-color: brown;
+}
+
+.slider
+{
+	width: 100%;
+	height: 700px;
+	
+	box-sizing: border-box;
+	padding: 200px 1000px 200px 200px ;
+	color: white;
+}
+
+.textslider
+{
+	width: 100%;
+	height: 50px;
+	color: white;
+	
+}
+
+button
+{
+	width: 190px;
+	height: 50px;
+	border-radius: 5px;
+	background-color: wheat;
+	border: none;
+}
+
+.textbigsize
+{
+	width: 100%;
+	height: 400px;
+	
+}
+.text
+{
+	width: 80%;
+	height: 100px;
+	padding: 6% 7% 0px 850px; 
+	box-sizing: border-box;
+}
+
+.textnho
+{
+	width: 80%;
+	height: 50px;
+	padding: 60px 10px 1px 760px; 
+	box-sizing: border-box;
+}
+
+.textnhieu
+{
+	width: 80%;
+	height: 100px;
+	padding: 5% 0% 20% 10%; 
+	box-sizing: content-box;
+	text-align: center;	
+}
+
+.box
+{
+	width: 100%;
+	height: 600px;
+	margin: 0px;
+}
+.boxndtrai
+{
+	width: 20%;
+	height: 450px;
+	background-color: tomato;
+	padding: 0px 10px 0px 10px;
+	float: left;
+	margin: 3% 1% 0% 15%;
+	background: url("../images/i (1).jpg");
+	background-size: cover;
+	color: white;
+	
+}
+
+.boxndgiua
+{
+	width: 20%;
+	height: 450px;
+	background-color: tomato;
+	float: left;
+	margin: 3% 1% 0% 2%;
+	padding: 0px 10px 0px 10px;
+	background: url("../images/clouds-landscape-mountain-range-mountains-wallpaper.jpg");
+	background-size: cover;
+	color: white;
+}
+.boxndphai
+{
+	width: 20%;
+	height: 450px;
+	background-color: tomato;
+	float: left;
+	margin: 3% 1% 0% 2%;
+	padding: 0px 10px 0px 10px;
+	background: url("../images/camping_night_tent_stars.jpg");
+	background-size: cover;
+	color: white;
+}
+	
+
+.textbox1
+{
+	width: 25%;
+	height: 50px;
+	box-sizing: border-box;
+	margin: 0px 20px 0px 20px;
+
+}
+
+.bottom
+{
+	width: 100%;
+	height: 970px;
+	background: url("../images/Mountains-trees-river-clouds-Yosemite-National-Park-USA_1920x1200.jpg");
+	background-size: cover;
+	
+}
+
+.textbot
+{
+	width: 50%;
+	height: 100px;
+	align-content: center;
+	text-align: center;
+	padding: 150px 20px 0px 450px;
+	color: white
+		
+}
+
+.anhbot
+{
+	width: 6%;
+	height: 110px;
+	margin: 50px 100px 0px 850px;
+	background: url("../images/539-5394446_twitter-clip-art.png");
+	background-size: cover;
+	
+}
+
+.end
+{
+	width: 100%;
+	height: 700px;
+	background-color: lightgray;
+	
+}
+
+.endtren
+{
+	width: 100%;
+	height: 200px;
+
+}
+
+.textendtren
+{
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	padding: 70px 0px 0px 0px;
+}
+
+.endtrai
+{
+	width: 30%;
+	height: 300px;
+
+	float: left;
+	margin: 0% 1% 0% 19%;
+}
+
+.endphai
+{
+	width: 30%;
+	height: 300px;
+
+	float: right;
+	margin: 0% 19% 0% 1%;
+}
+
+.textendtrai
+{
+	width: 80%;
+	height: 300px;
+	padding: 0px 0px 0px 100px;
+	text-align: justify;
+	
+}
+.textendphai
+{
+	width: 80%;
+	height: 300px;
+	padding: 0px 0px 0px 0px;
+	text-align: justify;
+	
+}
+ .endtrainho
+{
+	width: 30%;
+	height: 50px;
+	background-color: whitesmoke;
+	text-align: center;
+	margin: 0% 2% 0% 35%;
+	padding: 8px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+.endphainho
+{
+	width: 30%;
+	height: 50px;
+	background-color: whitesmoke;
+	text-align: center;
+	margin: 3% 2% 0% 35%;
+	padding: 8px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+.button
+{
+	width: 100%;
+	height: 100px;
+
+}
+
+.textbutton
+{
+	width: 10%;
+	height: 70px;
+	background-color: antiquewhite;
+	padding: 3px 0px 0px 0px;
+	text-align: center;
+	align-content: center;
+	border-radius: 15px;
+	margin: 400px 0px 0px 830px;
+	color: black;
+}
+
+
+
+
+
+
+
+
